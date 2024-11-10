@@ -1,0 +1,5 @@
+flask-ngrok
+joblib
+nltk
+pandas
+scikit-learn
