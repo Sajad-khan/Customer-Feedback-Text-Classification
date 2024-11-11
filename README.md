@@ -14,7 +14,10 @@ Install dependencies with:
 pip install -r requirements.txt
 
 **Usage**
-Data Preprocessing: Run data_preprocessing.py to load and clean data.
-Model Training: Run model_training.py to train and evaluate the model.
-Pipeline: Use main.py (if available) to execute the full process.
+Data Preprocessing: 
+Run data_preprocessing.py to load and clean data.
+
+Model Training: 
+Run model_training.py to train and evaluate the model.
+
 The trained model and label encoder are saved in content/model/ for future predictions.
